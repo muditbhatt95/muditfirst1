@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/muditfirst1/static/css/main.00c66fba.css",
+    "main.js": "/muditfirst1/static/js/main.3ce37660.js",
+    "index.html": "/muditfirst1/index.html",
+    "main.00c66fba.css.map": "/muditfirst1/static/css/main.00c66fba.css.map",
+    "main.3ce37660.js.map": "/muditfirst1/static/js/main.3ce37660.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c66fba.css",
+    "static/js/main.3ce37660.js"
+  ]
+}
